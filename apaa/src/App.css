@@ -1,0 +1,14 @@
+.container{
+    border: 0px solid;
+    font-style: normal;
+    width: 100%;
+    border-collapse: collapse;
+}
+.table{
+    padding: 2;
+    background-color: blue;
+}
+.thread{
+    padding: 2;
+    background-color: blue;
+}
